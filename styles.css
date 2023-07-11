@@ -83,7 +83,7 @@ body {
   background: rgba(167, 33, 98, 0.15);
   padding-top: 30px;
   padding-bottom: 0;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
 }
 
@@ -271,3 +271,11 @@ body {
   border-radius: 0 5px 5px 0;
   cursor: pointer;
 } */
+
+
+.feature-text{
+  text-decoration: underline;
+  color: #272727;
+  text-align: center;
+
+}
