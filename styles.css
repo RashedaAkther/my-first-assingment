@@ -11,6 +11,8 @@ body {
   display: flex;
   align-items: center;
 
+  
+
   justify-content: center;
   background: rgba(229, 84, 115, 0.1);
   height: 600px;
